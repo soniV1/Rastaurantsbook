@@ -1,0 +1,28 @@
+.menu{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.menu .menutitle{
+    font-family: cursive;
+    font-size: 50px;
+}
+.menulist{
+    width: 70px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.menuitem div{
+width: 100px;
+height: 100px;
+}
+.menuitem{
+    flex-direction: row;
+}

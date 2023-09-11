@@ -1,0 +1,14 @@
+.left{
+    width: 50%;
+    height: 400px;
+}
+.right{
+    
+    height:200px;
+    
+    
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+}
